@@ -93,3 +93,8 @@ Today's class will focus on passing information as `props` from a parent compone
 
   export default Child
   ```
+
+## Resources
+
+- [Replit: forEach](https://replit.com/@sheyna/SeashellKindlyCondition#index.js)
+- [Emoji Finder](https://emojifinder.com/wave)
