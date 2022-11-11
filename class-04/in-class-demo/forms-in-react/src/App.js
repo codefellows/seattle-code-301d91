@@ -94,12 +94,12 @@ export default App;
 
 
 /*
-
+// Original plain HTML version of the form:
 
 <form onSubmit={this.handleSubmit}>
-            <Form.Label>Your Name
+            <label>Your Name
               <input type="text" name="name"/>
-            </Form.Label>
+            </label>
             <fieldset>
               <legend>Select Numbers</legend>
               <select name="selected" onChange={this.handleSelect}>

@@ -91,3 +91,7 @@ Today we will use the skills we learned over the week to build a new application
     }
   }
   ```
+
+## Resources
+
+- [Replit: Array Reduce Method](https://replit.com/@sheyna/CyberAttachedComments#index.js)
