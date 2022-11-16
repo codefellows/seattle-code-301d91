@@ -53,3 +53,8 @@ Today we will use our express server to request information from third party API
   ```
 
 - NOTE: `axios` returns a giant object. The data we care about will be found in the `data` property of that object.
+
+## Resources
+
+- [Replit: RegEx](https://replit.com/@sheyna/GoodNotedCookies#index.js)
+- [RegEx 101 test environment](https://regex101.com/)
