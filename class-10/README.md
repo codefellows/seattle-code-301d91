@@ -74,4 +74,4 @@ Today we will talk about in-memory storage as well as dive deeper into modulariz
 
 ## Resources
 
-- [Replit: Object.keys and Object.values](https://replit.com/@sheyna/SnarlingPunyVirtualmemory#index.js)
+- [Replit: 2D Arrays](https://replit.com/@sheyna/AmazingUnitedDatabases#index.js)
