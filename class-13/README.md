@@ -138,3 +138,7 @@ While you can run MongoDB on your own machines, it's quite common to run an inst
 ![Network Options](assets/atlas-network.png)
 
 ![Connect](assets/atlas-connect-options.png)
+
+## Resources
+
+- [Replit: .every()](https://replit.com/@sheyna/SilkyQuintessentialDistributionsoftware#index.js)
